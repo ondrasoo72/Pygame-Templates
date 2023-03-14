@@ -1,2 +1,4 @@
 # Pygame-Templates
-Templates for Pygame(FHD,UHD)
+Templates for pygame, resoultion FHD and UHD with comments for beginners.
+
+Made by: @ondrasoo72
